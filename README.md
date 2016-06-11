@@ -44,6 +44,11 @@ Kindle ASIN: B00YSILNL0<br></div>
 - at other book stores: [Google Books](https://books.google.com/books?id=GOVOCwAAQBAJ&source=gbs_slider_cls_metadata_7_mylibrary), [O'Reilly](http://shop.oreilly.com/product/9781783555130.do), [Safari](https://www.safaribooksonline.com/library/view/python-machine-learning/9781783555130/), [Barnes & Noble](http://www.barnesandnoble.com/w/python-machine-learning-essentials-sebastian-raschka/1121999969?ean=9781783555130), [Apple iBooks](https://itunes.apple.com/us/book/python-machine-learning/id1028207310?mt=11), ...
 - social platforms: [Goodreads](https://www.goodreads.com/book/show/25545994-python-machine-learning)
 
+#### Translations
+
+- [German translation](https://www.amazon.de/Machine-Learning-Python-mitp-Professional/dp/3958454224/) via “mitp Verlag”
+- [Japanese translation](http://www.amazon.co.jp/gp/product/4844380605/) via “Impress Top Gear”
+
 ![](./images/ml-overview.jpg)
 
 ### [Literature References & Further Reading Resources](./docs/references.md)
@@ -180,6 +185,7 @@ In addition, some of you asked me about a platform for readers to discuss the co
 - [What factors should I consider when choosing a predictive model technique?](./faq/choosing-technique.md)
 - [What are the best toy datasets to help visualize and understand classifier behavior?](./faq/clf-behavior-data.md)
 - [How do I select SVM kernels?](./faq/select_svm_kernels.md)
+- [Interlude: Comparing and Computing Performance Metrics in Cross-Validation -- Imbalanced Class Problems and 3 Different Ways to Compute the F1 Score](./faq/computing-the-f1-score.md)
 
 ##### Logistic Regression
 
@@ -206,6 +212,7 @@ In addition, some of you asked me about a platform for readers to discuss the co
 - [What is wrong when my neural network's error increases?](./faq/neuralnet-error.md)
 - [How do I debug an artificial neural network algorithm?](./faq/nnet-debugging-checklist.md)
 - [What is the difference between a Perceptron, Adaline, and neural network model?](./faq/diff-perceptron-adaline-neuralnet.md)
+- [What is the basic idea behind the dropout technique?](./faq/dropout.md)
 
 
 ##### Other Algorithms for Supervised Learning
@@ -222,7 +229,7 @@ In addition, some of you asked me about a platform for readers to discuss the co
 
 ##### Ensemble Methods
 
-- [Is Combining Classifiers with Stacking Better than Selecting the Best One?](./logistic-boosting.md)
+- [Is Combining Classifiers with Stacking Better than Selecting the Best One?](./faq/logistic-boosting.md)
 
 ##### Preprocessing, Feature Selection and Extraction
 
