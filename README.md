@@ -53,8 +53,6 @@ Kindle ASIN: B00YSILNL0<br></div>
 
 ### [Literature References & Further Reading Resources](./docs/references.md)
 
-### [Image Gallery](./images/image_gallery/README.md)
-
 ### [Errata](./docs/errata.md)
 
 
@@ -85,6 +83,9 @@ Simply click on the `ipynb`/`nbviewer` links next to the chapter headlines to vi
 12. Training Artificial Neural Networks for Image Recognition [[dir](./code/ch12)] [[ipynb](./code/ch12/ch12.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch12/ch12.ipynb)]
 13. Parallelizing Neural Network Training via Theano [[dir](./code/ch13)] [[ipynb](./code/ch13/ch13.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch13/ch13.ipynb)]
 
+
+- Equation Reference [[PDF](./docs/equations/pymle-equations.pdf)] [[TEX](./docs/equations/pymle-equations.tex)]
+
 <br>
 
 **Bonus Notebooks (not in the book)**
@@ -96,6 +97,12 @@ Simply click on the `ipynb`/`nbviewer` links next to the chapter headlines to vi
 - Reading handwritten digits from MNIST into NumPy arrays [[GitHub ipynb](./code/bonus/reading_mnist.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/bonus/reading_mnist.ipynb)]
 - Scikit-learn Model Persistence using JSON [[GitHub ipynb](./code/bonus/scikit-model-to-json.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/bonus/scikit-model-to-json.ipynb)]
 - Multinomial logistic regression / softmax regression [[GitHub ipynb](./code/bonus/softmax-regression.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/bonus/softmax-regression.ipynb)]
+
+<hr>
+
+**"Bonus Content" (not in the book)**
+
+- [Model evaluation, model selection, and algorithm selection in machine learning - Part I](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)
 
 <hr>
 
